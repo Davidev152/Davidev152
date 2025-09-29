@@ -4,7 +4,7 @@
 :pencil: **Generador de contenido**  
 :eyeglasses:  
 :oncoming_automobile: **Fan de los Autos**  
-:music: **Apasionado de la música**
+:guitar: **Apasionado de la música**
 
 ### Vías de Contacto
 
