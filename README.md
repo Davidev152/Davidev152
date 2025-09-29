@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-:computer: **Tecnico Superior en Informática Industrial**
-:pencil: **Generador de contenido**
-:eyeglasses:
-:oncoming_automobile: **Fan de los Autos**
+:computer: **Tecnico Superior en Informática Industrial**  
+:pencil: **Generador de contenido**  
+:eyeglasses:  
+:oncoming_automobile: **Fan de los Autos**  
 :music: **Apasionado de la música**
 
 ### Vías de Contacto
